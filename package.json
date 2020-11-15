@@ -1,0 +1,15 @@
+{
+  "name": "followerparser",
+  "version": "0.0.1",
+  "description": "parsing is awesome",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "Taylan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
